@@ -1,5 +1,5 @@
 # base-init
-Base repository for all my projects
+Boilerplate repository for playground projects
 
 ```
 npm install
