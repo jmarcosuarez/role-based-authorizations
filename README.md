@@ -1,5 +1,4 @@
-# base-init
-Boilerplate repository for playground projects
+# Role based authorization in React
 
 ```
 npm install
